@@ -11,7 +11,7 @@ Practice key OOP concepts in Java by:
 ## 🧮 Part 1 – Location Distance
 Edit the `Main.java` file and:
 1. Replace `myLocation` coordinates with **your current location**.
-2. Run the code to calculate distance to **IT College – Sabratha University**.
+2. Run the code to calculate distance to **IT College.
 3. Identify where **overloading** and **overriding** occur in the code and explain the difference below.
 
 **Answer:**
