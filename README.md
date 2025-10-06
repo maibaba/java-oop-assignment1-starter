@@ -1,4 +1,4 @@
-# java-oop-assignment1-starter
+# java-oop-assignment1
 “Java OOP assignment starter project  and UML practice.”
 
 ## 🎯 Objective
